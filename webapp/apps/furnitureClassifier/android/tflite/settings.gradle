@@ -1,0 +1,3 @@
+package furnitureClassifier.android.tflite
+
+include ':app'
